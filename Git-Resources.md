@@ -8,6 +8,7 @@
 * [Beanstalk](https://beanstalkapp.com/)
 * [Assembla](https://www.assembla.com)
 * [Rhodecode](https://rhodecode.com/)
+* [Gitea](https://gitea.io/)
 
 ## Other
 * [SourceForge](https://sourceforge.net/)
