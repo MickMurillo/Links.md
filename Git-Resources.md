@@ -18,8 +18,8 @@
 * [Subversion](https://subversion.apache.org/)
 * [Mercurial](https://www.mercurial-scm.org/)
 * [Bazaar](http://bazaar.canonical.com)
-* CVS
-* Perforce
+* [CVS](http://cvs.nongnu.org/)
+* [Perforce](https://www.perforce.com/)
 * [Fossil](https://www.fossil-scm.org)
 * [Abstract](https://www.abstract.com/)
 * [Kactus](https://kactus.io/)
