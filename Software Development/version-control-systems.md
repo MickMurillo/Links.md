@@ -1,5 +1,17 @@
 # Source Code Management
 
+## Version Control Systems
+* [Git](https://git-scm.com/)
+* [Subversion](https://subversion.apache.org/)
+* [Mercurial](https://www.mercurial-scm.org/)
+* [Bazaar](http://bazaar.canonical.com)
+* [CVS](http://cvs.nongnu.org/)
+* [Perforce](https://www.perforce.com/)
+* [Fossil](https://www.fossil-scm.org)
+* [Abstract](https://www.abstract.com/)
+* [Kactus](https://kactus.io/)
+* [Plastic SCM](https://www.plasticscm.com)
+
 ## Git hosts
 
 * [GitHub](https://github.com)
@@ -13,14 +25,3 @@
 ## Other
 * [SourceForge](https://sourceforge.net/)
 * [Launchpad](https://launchpad.net/)
-
-## Alternative VCS
-* [Subversion](https://subversion.apache.org/)
-* [Mercurial](https://www.mercurial-scm.org/)
-* [Bazaar](http://bazaar.canonical.com)
-* [CVS](http://cvs.nongnu.org/)
-* [Perforce](https://www.perforce.com/)
-* [Fossil](https://www.fossil-scm.org)
-* [Abstract](https://www.abstract.com/)
-* [Kactus](https://kactus.io/)
-* [Plastic SCM](https://www.plasticscm.com)
