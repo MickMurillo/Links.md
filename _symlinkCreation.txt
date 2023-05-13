@@ -1,0 +1,2 @@
+mklink /D "D:\W\www\v\links.md\FolderName" "..\..\m\domain.tld\links.md\"
+D:\W\www\v\link.md\file.md <<===>> ..\m\domain.tld\links\filename.md
