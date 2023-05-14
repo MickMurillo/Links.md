@@ -1,4 +1,4 @@
-# Web and Online Comics
+# Web and Digital Comics
 
 ## Webcomics Hosts
 * [Smack Jeeves](http://www.smackjeeves.com/)
