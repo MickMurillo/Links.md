@@ -15,6 +15,7 @@
 [rackspace](https://www.rackspace.com/)
 [DigitalOcean](https://www.digitalocean.com/)
 [clouding.io](https://clouding.io/)
+[QARNOT](https://qarnot.com/)
 
 ## Platform as a Service
 [HEROKU](https://www.heroku.com/)

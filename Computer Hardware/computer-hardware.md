@@ -64,3 +64,6 @@ RaspBerry
 [benchmark UNIGINE](https://benchmark.unigine.com/)
 [BASEMARK BENCHMARKS](https://www.basemark.com/benchmarks/)
 [PCMARK](https://benchmarks.ul.com/)
+
+## Stress
+[Prime95](https://www.mersenne.org/)
