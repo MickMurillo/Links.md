@@ -42,6 +42,7 @@
 [Lenovo](https://www.lenovo.com/us/en/workstations/)
 [TUXEDO](https://www.tuxedocomputers.com/)
 [Broadberry](https://www.broadberry.co.uk/)
+[SCAN 3C](https://www.scan.co.uk/3xs/custom)
 
 ## Single Board
 RaspBerry

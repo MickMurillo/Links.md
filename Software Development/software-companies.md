@@ -8,3 +8,4 @@
 [Dassault Systèmes](https://www.3ds.com/)
 [Affinity](https://affinity.serif.com/)
 [JetBrains](https://www.jetbrains.com/)
+[Alludo](https://www.alludo.com/)
