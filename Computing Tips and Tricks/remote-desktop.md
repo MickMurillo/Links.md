@@ -1,6 +1,7 @@
 ## Computing Tips and Tricks
 
 ## Cloud Workstation
+[shadow](https://shadow.tech/)
 [vagon](https://vagon.io/)
 [Flaneer](https://www.flaneer.com/)
 [bebop](https://www.beboptechnology.com/)
