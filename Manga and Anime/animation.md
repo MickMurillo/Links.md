@@ -21,6 +21,7 @@
 * [Academy of Animated Art](https://academyofanimatedart.com/)
 * [Vertex School](https://www.vertexschool.com/)
 * [RE:ANIMA](https://www.reanima.eu/)
+* [The ANimator's Checklist](https://animatorschecklist.com/)
 
 ## Books
 * [The Illusion of Life](https://books.disney.com/book/the-illusion-of-life/)
