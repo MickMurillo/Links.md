@@ -12,7 +12,10 @@
 * [How to Draw Manga](https://www.howtodrawmanga.com/)
 * [Manga-Training](http://manga-training.com/)
 * [TOO / How to Draw Manga](https://www.too.com/manga/en/)
+* [Anime Art Academy](https://animeartacademy.com/)
 
+## Youtube
+* [@MonitorComics](https://www.youtube.com/@MonitorComics/)
 
 ## Books
 * [Making Comics](http://scottmccloud.com/2-print/3-mc/index.html)

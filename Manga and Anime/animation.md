@@ -22,6 +22,7 @@
 * [Vertex School](https://www.vertexschool.com/)
 * [RE:ANIMA](https://www.reanima.eu/)
 * [The ANimator's Checklist](https://animatorschecklist.com/)
+* [START A STUDIO](https://startastudio.com/)
 
 ## Books
 * [The Illusion of Life](https://books.disney.com/book/the-illusion-of-life/)
@@ -29,6 +30,8 @@
 
 ## Websites
 * [Animation World News](https://www.awn.com/)
+* [KeyFrame](https://keyframe.blog/)
+* [SAKUGABOORU](https://www.sakugabooru.com/)
 
 ## Social
 * [r/learnanimation/](https://www.reddit.com/r/learnanimation/)
@@ -37,8 +40,17 @@
 * [Synfig](https://www.synfig.org/)
 * [Blender](https://www.blender.org/)
 * [OpenToonz](https://opentoonz.github.io/)
+* [Pencil2D](https://www.pencil2d.org/)
 * [Clip Studio Paint](https://www.clipstudio.net/)
 * [Animation Paper](https://animationpaper.com/)
+* [Spine](http://esotericsoftware.com/)
+* [Moho](https://moho.lostmarble.com/)
+* [TV Paint](https://www.tvpaint.com/)
+* [Toon Boom Harmony](https://www.toonboom.com/)
+
+## Associations
+* [afca](https://www.afca.asso.fr/)
+* [ASIFA-Hollywood](https://www.asifa-hollywood.org/)
 
 ## Posts and Articles
 * [Anime Great Deception - The Difference Between Anime and Cartoons](https://www.tofugu.com/japan/anime-vs-cartoons/)
