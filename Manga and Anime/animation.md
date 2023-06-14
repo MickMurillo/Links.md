@@ -23,6 +23,7 @@
 * [RE:ANIMA](https://www.reanima.eu/)
 * [The ANimator's Checklist](https://animatorschecklist.com/)
 * [START A STUDIO](https://startastudio.com/)
+* [Animator Guild](https://www.animatorguild.com/)
 
 ## Books
 * [The Illusion of Life](https://books.disney.com/book/the-illusion-of-life/)
@@ -47,6 +48,7 @@
 * [Moho](https://moho.lostmarble.com/)
 * [TV Paint](https://www.tvpaint.com/)
 * [Toon Boom Harmony](https://www.toonboom.com/)
+* [RoughAnimator](https://www.roughanimator.com/)
 
 ## Associations
 * [afca](https://www.afca.asso.fr/)

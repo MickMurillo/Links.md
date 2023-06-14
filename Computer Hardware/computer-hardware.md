@@ -43,6 +43,7 @@
 [TUXEDO](https://www.tuxedocomputers.com/)
 [Broadberry](https://www.broadberry.co.uk/)
 [SCAN 3C](https://www.scan.co.uk/3xs/custom)
+[MeLE](https://www.mele.cn/)
 
 ## Single Board
 RaspBerry
