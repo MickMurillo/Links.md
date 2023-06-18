@@ -24,6 +24,7 @@
 * [The ANimator's Checklist](https://animatorschecklist.com/)
 * [START A STUDIO](https://startastudio.com/)
 * [Animator Guild](https://www.animatorguild.com/)
+* [Animation for anyone](http://www.animationforanyone.org/)
 
 ## Books
 * [The Illusion of Life](https://books.disney.com/book/the-illusion-of-life/)

@@ -1,4 +1,4 @@
-## Computing Tips and Tricks
+## Remote Desktop
 
 ## Cloud Workstation
 [shadow](https://shadow.tech/)
