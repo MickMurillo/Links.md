@@ -23,3 +23,6 @@
 ## Youtube
 
 [@DarrenTAnims](https://www.youtube.com/@DarrenTAnims/)
+
+## Open Toonz Users
+https://www.youtube.com/@jameswhitelawanimation
