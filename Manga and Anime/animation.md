@@ -34,6 +34,7 @@
 * [Animation World News](https://www.awn.com/)
 * [KeyFrame](https://keyframe.blog/)
 * [SAKUGABOORU](https://www.sakugabooru.com/)
+* [Cartoon Brew](https://www.cartoonbrew.com/)
 
 ## Social
 * [r/learnanimation/](https://www.reddit.com/r/learnanimation/)
@@ -52,6 +53,7 @@
 * [RoughAnimator](https://www.roughanimator.com/)
 
 ## Associations
+* [Réseau des écoles de cinéma d'animation](https://reca-animation.com/)
 * [afca](https://www.afca.asso.fr/)
 * [ASIFA-Hollywood](https://www.asifa-hollywood.org/)
 
