@@ -19,3 +19,7 @@ https://bestfriends.org/
 https://www.awf.org/
 https://www.lonelywhale.org/
 https://crueltyfreeinternational.org/
+
+## Asesorias especializadas
+
+- https://fundacionesyasociaciones.com/
