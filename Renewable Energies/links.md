@@ -5,6 +5,11 @@
 https://www.morningstarcorp.com/
 https://www.victronenergy.com/
 https://www.studer-innotec.com/
+https://www.tensite-energy.com/en/ ES
+https://zytech.es/ ES
+https://eurenergroup.com/es/ ES
+https://tamesol.com/ ES
+https://www.exiomsolution.com/ ES
 
 
 ## Websites, news, webzines 
@@ -23,7 +28,7 @@ https://autosolar.es/
 https://solarmat.es/es/
 https://elalmacenfotovoltaico.com/
 https://tienda-solar.es/es/
-https://solarplak.es/
+https://solarplak.es/ panels!
 https://atersa.shop/
 https://www.teknosolar.com/
 https://lumisolar.es/
