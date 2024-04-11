@@ -10,3 +10,6 @@
 
 # investment
 * https://startupxplore.com
+
+# Media
+* https://foundr.com/
