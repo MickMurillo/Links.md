@@ -11,5 +11,8 @@
 # investment
 * https://startupxplore.com
 
+# Data
+* [crunchbase](https://www.crunchbase.com/)
+
 # Media
 * https://foundr.com/
