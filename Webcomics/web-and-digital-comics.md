@@ -12,6 +12,7 @@
 * [Globalcomix](https://globalcomix.com/)
 * [keenspot](http://www.keenspot.com)
 * [Amilova](https://www.amilova.com)
+* [MangaDraft](https://www.mangadraft.com/)
 
 ## Webcomics Directories, tops
 * [Comic Rocket](https://www.comic-rocket.com/)
