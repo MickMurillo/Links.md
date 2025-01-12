@@ -12,3 +12,6 @@
 ## Press
 [CGWORLD.JP](https://cgworld.jp/)
 [CREATIVE VILLAGE](https://www.creativevillage.ne.jp/)
+
+## Online Digital Manga
+https://www.manga.club/
